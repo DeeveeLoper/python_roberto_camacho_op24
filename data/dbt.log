@@ -1,0 +1,12 @@
+2024-02-19 10:15:23,456 INFO Thread-1 Starting DBT transformation job
+2024-02-19 10:15:24,789 DEBUG Thread-1 Loading configuration from dbt_project.yml
+2024-02-19 10:15:25,123 ERROR Thread-1 Failed to parse SQL query in models/sales/daily_sales.sql: syntax error at or near "FORM"
+2024-02-19 10:15:26,234 INFO Thread-2 Starting incremental model build: customer_segments
+2024-02-19 10:15:27,567 ERROR Thread-2 Could not connect to warehouse: timeout after 30 seconds
+2024-02-19 10:15:28,890 WARNING Thread-1 Skipping dependent models due to upstream failure
+2024-02-19 10:15:29,012 INFO Thread-3 Successfully completed: product_inventory
+2024-02-19 10:15:30,345 ERROR Thread-1 Memory allocation failed during large table join
+2024-02-19 10:15:31,678 INFO Thread-2 Cleaning up temporary tables
+2024-02-19 10:15:32,901 DEBUG Thread-1 Cache invalidation completed
+2024-02-19 10:15:33,234 ERROR Thread-3 Invalid jinja template in models/marketing/campaign_metrics.sql: undefined variable 'campaign_date'
+2024-02-19 10:15:34,567 INFO Thread-1 DBT job completed with errors
