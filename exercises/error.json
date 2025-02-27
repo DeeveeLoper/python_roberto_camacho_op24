@@ -1,0 +1,26 @@
+[
+  {
+    "Timestamp ": "2024-02-19 10:15:25,123",
+    "Log level": "ERROR",
+    "Thread": "Thread-1",
+    "Detail message": "Failed to parse SQL query in models/sales/daily_sales.sql: syntax error at or near \"FORM\""
+  },
+  {
+    "Timestamp ": "2024-02-19 10:15:27,567",
+    "Log level": "ERROR",
+    "Thread": "Thread-2",
+    "Detail message": "Could not connect to warehouse: timeout after 30 seconds"
+  },
+  {
+    "Timestamp ": "2024-02-19 10:15:30,345",
+    "Log level": "ERROR",
+    "Thread": "Thread-1",
+    "Detail message": "Memory allocation failed during large table join"
+  },
+  {
+    "Timestamp ": "2024-02-19 10:15:33,234",
+    "Log level": "ERROR",
+    "Thread": "Thread-3",
+    "Detail message": "Invalid jinja template in models/marketing/campaign_metrics.sql: undefined variable 'campaign_date'"
+  }
+]
