@@ -1,0 +1,35 @@
+Example of KPIs for a school:
+
+Academic Performance
+
+Average test scores (85% achievement rate)
+Graduation rate (95%)
+College acceptance rate (80%)
+
+
+Student Engagement
+
+Attendance rate (96%)
+Extracurricular participation (70% of students)
+Homework completion rate (92%)
+
+
+Teacher Effectiveness
+
+Teacher retention rate (88%)
+Professional development hours completed (40 hours/year)
+Student-to-teacher ratio (18:1)
+
+
+Financial Health
+
+Budget adherence (within 3% of target)
+Fundraising goals achieved (125% of target)
+Cost per student ($9,500/year)
+
+
+Parent Satisfaction
+
+Parent survey results (4.2/5)
+Parent-teacher conference attendance (85%)
+Parent volunteer hours (1,200 hours/year)
